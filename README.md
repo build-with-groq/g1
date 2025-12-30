@@ -145,4 +145,4 @@ Finally, after the problem is added as a user message, an assistant message is l
 
 ### Credits
 
-This app was developed by [Benjamin Klieger](https://x.com/benjaminklieger).
+This app was developed by Benjamin Klieger.
